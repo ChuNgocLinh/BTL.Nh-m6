@@ -3,4 +3,5 @@ def sum (_a=2,_b=0,_c=4):
 print(sum(2,3,1))
 print(sum(2,6))
 print(sum(3))
-print(sum())            
+print(sum())     
+print(sum())   
